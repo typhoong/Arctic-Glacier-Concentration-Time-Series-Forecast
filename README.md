@@ -1,5 +1,5 @@
 # Arctic Glacier Concentration Time Series Forecast
-Code and report of the 'Arctic Glacier Concentration Time Series Forecast - Focusing on the Convolutional LSTM'
+Code and report of the 'Arctic Glacier Concentration Time Series Forecast - Focusing on the Convolutional LSTM' project
 conducted at the '4th Seoul National University Big Data Fintech Expert Training Course'.
 
 ### Task Overview
